@@ -25,6 +25,10 @@ Assesses the accuracy of translating and localizing clinical terminology (e.g., 
 
 ## 🛠️ Methodology
 This framework is built on Reinforcement Learning from Human Feedback (RLHF) principles, specifically tailored for the pharmaceutical and clinical domain. It bridges the gap between raw computational NLP and practical, safe patient care.
+---
+## 🔙 Main Project Repository
+Return to the main guidelines repository for live dataset samples and prompt templates:
+* **[👉 Go to Clinical LLM Guidelines](https://github.com/Mounirhassan/clinical-llm-guidelines)**
 
 ---
 *Developed by Mounir S. Hassan — Clinical Pharmacist, AI Prompt Engineer, and LLM Evaluator dedicated to safe AI integration in healthcare. Author of **Prescriptive AI**.*
